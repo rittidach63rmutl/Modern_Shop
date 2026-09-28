@@ -1,2 +1,22 @@
+# Dependencies
 node_modules/
+vendor/
+
+# Environment variables
 .env
+.env.*
+
+# Uploaded files
+assets/uploads/*
+!assets/uploads/.gitkeep
+uploads/*
+!uploads/.gitkeep
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
