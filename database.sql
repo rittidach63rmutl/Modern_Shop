@@ -1,0 +1,1 @@
+CREATE DATABASE IF NOT EXISTS modern_shop_db; USE modern_shop_db; /* Add tables and seeds as in db.php */
